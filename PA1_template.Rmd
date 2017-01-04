@@ -31,6 +31,7 @@ ggplot(data=dailyAvg, aes(x=interval, y=steps)) +
     xlab("5-minute interval") +
     ylab("Average # of steps taken")
 ```
+From the Data set the 5-minute interval contains the maximum number of steps
 
 ## Maximum of Steps in 5-Minute Interval
 
