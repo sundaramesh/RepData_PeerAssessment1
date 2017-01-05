@@ -1,8 +1,15 @@
+---
+title: "RR_Week2_Project1"
+author: "Ramesh Sundaram"
+date: "January 5, 2017"
+output: html_document
+---
 # Coursera - Reproducible Research
 
 ## Week 2- Project Assessment 1
 
 ## Loading and preprocessing the data
+
 
 ```{r ReadAndLoadData}
 # Setting the current path to input data location
