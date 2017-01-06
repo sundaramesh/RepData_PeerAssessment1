@@ -2,7 +2,11 @@
 title: "RR_Week2_Project1"
 author: "Ramesh Sundaram"
 date: "January 5, 2017"
-output: html_document
+output:
+  html_document:
+    keep_md: true
+---
+Includes
 ---
 # Coursera - Reproducible Research
 
